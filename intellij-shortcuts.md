@@ -24,3 +24,8 @@
 ## Version Control
 1. Open: Command + 9
 2. Show diff: Command + D
+
+## Configuration
+ 1.Go to Help > Edit Custom Properties.   
+ 2.idea.max.intellisense.filesize=999999.   
+ 3.Restart the IDE.   
