@@ -13,6 +13,7 @@ http://allaboutscala.com/tutorials/chapter-1-getting-familiar-intellij-ide/intel
 12. Find method in file: Command +F12
 14. Hireary: Ctrl + H
 15. Perferences: Command + ,
+16. Go to line number: Command + G
 
 ## Editor
 1. Copy current line to next line: Command + D
