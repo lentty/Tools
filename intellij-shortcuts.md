@@ -1,4 +1,5 @@
 ## Navigation
+http://allaboutscala.com/tutorials/chapter-1-getting-familiar-intellij-ide/intellij-keyboard-shortcuts-navigation/   
 1. Ctrl+I 实现接口中的方法
 2. Ctrl + O 
 3. Find file: Command + O
