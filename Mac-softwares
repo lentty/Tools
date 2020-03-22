@@ -4,3 +4,5 @@
 4. Update Command Line Tools
 sudo rm -rf /Library/Developer/CommandLineTools
 xcode-select --install
+5. configure terminal
+https://www.freecodecamp.org/news/how-to-configure-your-macos-terminal-with-zsh-like-a-pro-c0ab3f3c1156/
